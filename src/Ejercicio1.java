@@ -1,4 +1,4 @@
-//package src
+package src;
 
 //Ejercicio1
 import java.util.Scanner;
